@@ -4,7 +4,7 @@ Python application that connects to a PostgreSQL students table
 and performs create, read, update, and delete operations.
 
 ## Video Demo
-[PASTE YOUR YOUTUBE/VIMEO LINK HERE]
+[https://youtu.be/RP0md6sY_6U]
 
 
 ## Project Structure
